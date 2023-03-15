@@ -18,73 +18,73 @@ export default function Form() {
       id: 'BI1',
       ruteDB: 'BannerIzquierdo1',
       ruteSTG: 'Banners',
-      title: 'Banner Izquierdo 1'
+      title: 'Ban. Izquierdo 1'
     },
     {
       id: 'BI2',
       ruteDB: 'BannerIzquierdo2',
       ruteSTG: 'Banners',
-      title: 'Banner Izquierdo 2'
+      title: 'Ban. Izquierdo 2'
     },
     {
       id: 'BI3',
       ruteDB: 'BannerIzquierdo3',
       ruteSTG: 'Banners',
-      title: 'Banner Izquierdo 3'
+      title: 'Ban. Izquierdo 3'
     },
     {
       id: 'BP1',
       ruteDB: 'BannerPortada1',
       ruteSTG: 'Banners',
-      title: 'Banner Portada 1'
+      title: 'Ban. Portada 1'
     },
     {
       id: 'BP2',
       ruteDB: 'BannerPortada2',
       ruteSTG: 'Banners',
-      title: 'Banner Portada 2'
+      title: 'Ban. Portada 2'
     },
     {
       id: 'BP3',
       ruteDB: 'BannerPortada3',
       ruteSTG: 'Banners',
-      title: 'Banner Portada 3'
+      title: 'Ban. Portada 3'
     },
     {
       id: 'BD1',
       ruteDB: 'BannerDerecho1',
       ruteSTG: 'Banners',
-      title: 'Banner derecho 1'
+      title: 'Ban. derecho 1'
     },
     {
       id: 'BD2',
       ruteDB: 'BannerDerecho2',
       ruteSTG: 'Banners',
-      title: 'Banner derecho 2'
+      title: 'Ban. derecho 2'
     },
     {
       id: 'BD3',
       ruteDB: 'BannerDerecho3',
       ruteSTG: 'Banners',
-      title: 'Banner derecho 3'
+      title: 'Ban. derecho 3'
     },
     {
       id: 'BP',
       ruteDB: 'BannerPortada',
       ruteSTG: 'Banners',
-      title: 'Banner De Portada'
+      title: 'Ban. Informativo'
     },
     {
       id: 'BN1',
       ruteDB: 'BannerNotas1',
       ruteSTG: 'Banners',
-      title: 'Banner De Notas 1'
+      title: 'Ban. De Notas 1'
     },
     {
       id: 'BN2',
       ruteDB: 'BannerNotas2',
       ruteSTG: 'Banners',
-      title: 'Banner De Notas 2'
+      title: 'Ban. De Notas 2'
     },
   ]
 
